@@ -1,6 +1,6 @@
 # AMDGPU-PRO.AUR
  
-<B>Current version:</b> <I>20.20</I>
+<B>Current version:</b> <I>20.20</I><BR>
 <B>Current status:</b> <I>Package builds, DKMS fails to compile</I>
 
 <B>Changes</B>

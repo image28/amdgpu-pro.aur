@@ -15,6 +15,5 @@ a few symbolic links I had previously setup. </I>
 <UL><LI>Fix /lib symbolic link issue</LI>
 <LI>Test with a clean build system</LI>
 <LI>Add all the correct provides</LI>
-<LI>Check all licences and technicallities are correct</LI></UL>
-<LI>Fixes for current kernel ( only LTS kernel works with the DKMS module, much like the Xeon Phi DKMS )</LI>
+<LI>Check all licences and technicallities are correct</LI><LI>Fixes for current kernel ( only LTS kernel works with the DKMS module, much like the Xeon Phi DKMS )</LI></UL>
 
